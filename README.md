@@ -3,7 +3,7 @@
 Projeto feito no módulo do curso Node + TypeScript
 
 ### Pré-requisitos globais:
-`npm i -g nodemon typescritp ts-node`
+`npm i -g nodemon typescript ts-node`
 
 ### Instalação
 
