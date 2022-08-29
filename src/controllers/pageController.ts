@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
 import { createObjectMenu } from '../helpers/createMenuObjects';
-import { Pet } from '../models/pet'
+import { Pet } from '../models/pet';
 
 
 export const home = (req: Request, res: Response) => {
